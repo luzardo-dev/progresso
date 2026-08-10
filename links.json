@@ -22,12 +22,12 @@
     {
         "url": "https://www.notion.so/p/3a633f83b4dd80ccbf5cf72e6fdfcacc",
         "titulo": "Semana 5 (Dias 18 a 22): Boas Práticas, Persistência e Code Review",
-        "marcada": true
+        "marcada": false
     },
     {
         "url": "https://www.notion.so/p/3a633f83b4dd80fd8900dc727443ed9e",
         "titulo": "Semana 6 (Dias 23 a 27): Framework Web Django e Banco de Dados Relacional",
-        "marcada": false
+        "marcada": true
     },
     {
         "url": null,
