@@ -27,15 +27,15 @@
     {
         "url": "https://www.notion.so/p/3a633f83b4dd80fd8900dc727443ed9e",
         "titulo": "Semana 6 (Dias 23 a 27): Framework Web Django e Banco de Dados Relacional",
-        "marcada": true
-    },
-    {
-        "url": "https://www.notion.so/p/3a633f83b4dd80e7bbb5eb9585f0de8d",
-        "titulo": "Semana 7 (Dias 28 a 32): Consultas de Dados, Templates e Frontend",
         "marcada": false
     },
     {
-        "url": null,
+        "url": "https://www.notion.so/p/3be33f83b4dd809aae4beae7d1e31532",
+        "titulo": "Semana 7 (Dias 28 a 32): Consultas de Dados, Templates e Frontend",
+        "marcada": true
+    },
+    {
+        "url": "https://www.notion.so/p/3a633f83b4dd801cbeced7da2d0c39c2",
         "titulo": "Semana 8 (Dias 33 a 37): Formulários Avançados, Segurança e Autenticação",
         "marcada": false
     },
