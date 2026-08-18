@@ -26,32 +26,32 @@
     },
     {
         "url": "https://www.notion.so/p/3a633f83b4dd80fd8900dc727443ed9e",
-        "titulo": "Semana 6 (Dias 23 a 27): Framework Web Django e Banco de Dados Relacional",
+        "titulo": "Semana 6 (Dias 23 a 26): Framework Web Django e Banco de Dados Relacional",
         "marcada": false
     },
     {
         "url": "https://www.notion.so/p/3be33f83b4dd809aae4beae7d1e31532",
-        "titulo": "Semana 7 (Dias 28 a 32): Consultas de Dados, Templates e Frontend",
+        "titulo": "Semana 7 (Dias 27 a 31): Consultas de Dados, Templates e Frontend",
         "marcada": true
     },
     {
         "url": "https://www.notion.so/p/3a633f83b4dd801cbeced7da2d0c39c2",
-        "titulo": "Semana 8 (Dias 33 a 37): Formulários Avançados, Segurança e Autenticação",
+        "titulo": "Semana 8 (Dias 32 a 36): Formulários Avançados, Segurança e Autenticação",
         "marcada": false
     },
     {
         "url": null,
-        "titulo": "Semana 9 (Dias 38 a 42): APIs REST, Integração de Sistemas e Infraestrutura Linux",
+        "titulo": "Semana 9 (Dias 37 a 41): APIs REST, Integração de Sistemas e Infraestrutura Linux",
         "marcada": false
     },
     {
         "url": null,
-        "titulo": "Semana 10 (Dias 43 a 47): Deploy de Aplicações e Servidores de Produção",
+        "titulo": "Semana 10 (Dias 42 a 46): Deploy de Aplicações e Servidores de Produção",
         "marcada": false
     },
     {
         "url": null,
-        "titulo": "Semana 11 (Dias 48 a 50): Qualidade, Homologação e Entrega",
+        "titulo": "Semana 11 (Dias 47 a 50): Qualidade, Homologação e Entrega",
         "marcada": false
     }
 ]
