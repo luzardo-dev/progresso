@@ -31,27 +31,32 @@
     },
     {
         "url": "https://www.notion.so/p/3be33f83b4dd809aae4beae7d1e31532",
-        "titulo": "Semana 7 (Dias 27 a 31): Consultas de Dados, Templates e Frontend",
+        "titulo": "Semana 7 (Dias 27 a 30): Consultas de Dados, Templates e Frontend",
+        "marcada": false
+    },
+    {
+        "url": "https://www.notion.so/p/3c433f83b4dd80cab8c8d3f27174ff52",
+        "titulo": "Semana 8 (Dias 31 a 35): Formulários Avançados, Segurança e Autenticação",
         "marcada": true
     },
     {
-        "url": "https://www.notion.so/p/3a633f83b4dd801cbeced7da2d0c39c2",
-        "titulo": "Semana 8 (Dias 32 a 36): Formulários Avançados, Segurança e Autenticação",
+        "url": "https://www.notion.so/p/3a633f83b4dd80938e7ec84a870c021a",
+        "titulo": "Semana 9 (Dias 36 a 40): APIs REST, Integração de Sistemas e Infraestrutura Linux",
         "marcada": false
     },
     {
-        "url": null,
-        "titulo": "Semana 9 (Dias 37 a 41): APIs REST, Integração de Sistemas e Infraestrutura Linux",
+        "url": "https://www.notion.so/p/3a633f83b4dd807aa164c3bb90b923e8",
+        "titulo": "Semana 10 (Dias 41 a 45): Deploy de Aplicações e Servidores de Produção",
         "marcada": false
     },
     {
-        "url": null,
-        "titulo": "Semana 10 (Dias 42 a 46): Deploy de Aplicações e Servidores de Produção",
+        "url": "https://www.notion.so/p/3a633f83b4dd802c93e0db55b5a3c33a",
+        "titulo": "Semana 11 (Dias 46 a 50): Qualidade, Homologação e Entrega",
         "marcada": false
     },
     {
-        "url": null,
-        "titulo": "Semana 11 (Dias 47 a 50): Qualidade, Homologação e Entrega",
+        "url": "https://www.notion.so/p/3c233f83b4dd80aea792d5edb3667937",
+        "titulo": "3 Semanas - Frameworks e Produtividade (60h)",
         "marcada": false
     }
 ]
